@@ -1,0 +1,1 @@
+/home/lucas/Programmeer/travel-app/target/debug/travel-app: /home/lucas/Programmeer/travel-app/src/db.rs /home/lucas/Programmeer/travel-app/src/main.rs /home/lucas/Programmeer/travel-app/src/models.rs
